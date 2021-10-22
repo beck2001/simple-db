@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/murat/CLionProjects/events-database/main.cpp
+iostream
+-
+algorithm
+-
+string
+-
+map
+-
+vector
+-
+set
+-
+iomanip
+-
+sstream
+-
+

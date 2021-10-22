@@ -1,0 +1,3 @@
+C:/Users/murat/CLionProjects/events-database/cmake-build-debug/CMakeFiles/events_database.dir
+C:/Users/murat/CLionProjects/events-database/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/murat/CLionProjects/events-database/cmake-build-debug/CMakeFiles/rebuild_cache.dir
